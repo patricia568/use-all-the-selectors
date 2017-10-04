@@ -23,5 +23,13 @@ nav ul {
 }
 
 .wrapper .dfn {
-  background-color: #2694d8
+  background-color: #b58900
+}
+
+.dfn ~ strong {
+  color: #fff
+}
+
+a:not(.no-highlight) {
+  background color: #719e07
 }
