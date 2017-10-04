@@ -31,7 +31,7 @@ nav ul {
 }
 
 a:not(.no-highlight) {
-  background-color: #719e47;
+  background-color: #719e07;
 }
 
 [href^="rel=external"] {
@@ -39,7 +39,7 @@ a:not(.no-highlight) {
 }
 
 ol li:first-child {
-  color: #719e48;
+  color: #719e47;
 }
 
 ol li:last-child {
